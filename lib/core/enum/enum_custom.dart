@@ -1,0 +1,4 @@
+// enum AlertDialogType {
+//   CHNAGETHEME,
+//   CHANGEFONTSIZE,
+// }
